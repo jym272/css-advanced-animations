@@ -79,7 +79,7 @@ const Container = styled.section`
 
 `;
 
-const Home: NextPage = () => {
+const Button1: NextPage = () => {
 
     return <Container>
         <a>
@@ -89,4 +89,4 @@ const Home: NextPage = () => {
     </Container>
 }
 
-export default Home
+export default Button1
